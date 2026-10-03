@@ -28,5 +28,8 @@
     "eslint-plugin-import": "*",
     "typescript-eslint": "*",
     "vitest": "*"
+  },
+  "allowScripts": {
+    "unrs-resolver@1.12.2": true
   }
 }
